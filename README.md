@@ -2,23 +2,24 @@
 
 This repository contains the main projects from each course in the Google Advanced Data Analytics Certificate program. The program is designed to provide hands-on experience similar to the work performed by data analytics professionals. By completing these projects, you will gain the skills needed to uncover stories within data and build models to identify trends and insights.
 
+
 ## Program Overview
 
 The Google Advanced Data Analytics Certificate consists of seven courses, each focusing on key aspects of data science and analytics:
 
-1. **Foundations of Data Science**
+1. [**Foundations of Data Science**](https://www.coursera.org/learn/foundations-of-data-science/home/week/1)
 
-2. **Get Started with Python**
+2. [**Get Started with Python**](https://www.coursera.org/learn/get-started-with-python/home/week/1)
 
-3. **Go Beyond the Numbers: Translate Data into Insights**
+3. [**Go Beyond the Numbers: Translate Data into Insights**](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight/home/week/1)
 
-4. **The Power of Statistics**
+4. [**The Power of Statistics**](https://www.coursera.org/learn/the-power-of-statistics/home/week/1)
 
-5. **Regression Analysis: Simplify Complex Data Relationships**
+5. [**Regression Analysis: Simplify Complex Data Relationships**](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships/home/week/1)
 
-6. **The Nuts and Bolts of Machine Learning**
+6. [**The Nuts and Bolts of Machine Learning**](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning/home/week/1)
 
-7. **Google Advanced Data Analytics Capstone**
+7. [**Google Advanced Data Analytics Capstone**](https://www.coursera.org/learn/google-advanced-data-analytics-capstone/home/week/1)
 
 
 ## Repository Structure
