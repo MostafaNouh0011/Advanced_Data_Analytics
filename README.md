@@ -24,8 +24,9 @@ The Google Advanced Data Analytics Certificate consists of seven courses, each f
 
 ## Repository Structure
 
-Each folder in this repository corresponds to a course in the program and contains the main project for that course. These projects demonstrate the practical application of the concepts and skills learned throughout the program.
+Each folder in this repository corresponds to a course in the program and contains the main project for that course. These end-of-course portfolio projects build across courses to simulate the full lifecycle of a data project, just like job tasks that you will encounter as a data professional.
 
+![PACE](PACE_model.png)
 
 ## workplace scenarios
 
@@ -35,12 +36,12 @@ This certificate offers you a choice of several different workplace scenarios to
 
 * TikTok, created in partnership with the short-form video hosting company.
 
-* Waze, created in partnership with the realtime driving directions app.     (This is what I applied)
+* Waze, created in partnership with the realtime driving directions app.    `(This is what I applied)`
 
 
 ## Waze
 
-![Waze](wazelogo.PNG)
+![Waze](wazelogo.png)
 
 ### Project goal: 
 
